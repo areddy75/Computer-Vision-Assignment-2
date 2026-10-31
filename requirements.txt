@@ -1,0 +1,9 @@
+torch>=2.1
+numpy
+pillow
+matplotlib
+pandas
+scikit-learn
+jupyter
+nbconvert
+ipykernel
